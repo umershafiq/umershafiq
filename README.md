@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umershafiq
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning @laravel
 - 💞️ I’m looking to collaborate on Laravel-Vuejs Tech Stack
 - 📫 How to reach me umershafiq7@gmail.com
 
